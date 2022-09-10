@@ -11,8 +11,8 @@
 
 
 ##  📚 Latest Blog Posts
-- [Model Explainability (Model Açıklanabilirliği)](https://medium.com/@yusufbaykaloglu/model-explainability-model-a%C3%A7%C4%B1klanabilirli%C4%9Fi-8def80bea777)
-- [RPA(Robotik Süreç Otomasyonu)](https://medium.com/@yusufbaykaloglu/sanal-emek%C3%A7i-rpa-robotik-s%C3%BCre%C3%A7-otomasyonu-fabdfb8b2ebf)
+- [Model Explainability](https://medium.com/@yusufbaykaloglu/model-explainability-model-a%C3%A7%C4%B1klanabilirli%C4%9Fi-8def80bea777)
+- [RPA](https://medium.com/@yusufbaykaloglu/sanal-emek%C3%A7i-rpa-robotik-s%C3%BCre%C3%A7-otomasyonu-fabdfb8b2ebf)
 - [Machine Learning,Deep Learning and Reinforcement Learning Road Map](https://medium.com/yetkingencler/machine-learning-deep-learning-and-reinforcement-learning-road-map-93e5cb8b8260)
 
 <a href="https://github.com/yusufbaykal">
