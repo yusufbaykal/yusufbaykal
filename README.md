@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **MLOps**, **Graph Neural Network**, **Reinforcement Learning**
 
-- 📝 I regulary write articles on (**Medium**)[https://medium.com/@yusufbaykaloglu)]
+- 📝 I regulary write articles on [**Medium**][https://medium.com/@yusufbaykaloglu)]
 
 - 📫 How to reach me **yusufbaykal1905@gmail.com**
 
